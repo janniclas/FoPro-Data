@@ -10,22 +10,18 @@ unique follower count: 46597
 duplicate counter 109225
 Percentage of duplicates 70.09600698232599
 
-----starting query for file path /usr/app/data/1010248944977416194.csv-----
 statistic for /usr/app/data/770554585039659008.csv
 overall followers with duplicates: 206423
 unique follower count: 58992
 duplicate counter 147431
 Percentage of duplicates 71.42178923860229
 
-----starting query for file path /usr/app/data/1237736394585448449punktpreradovic1392406173387792386.csv-----
 statistic for /usr/app/data/1010248944977416194.csv
 overall followers with duplicates: 220231
 unique follower count: 63525
 duplicate counter 156706
 Percentage of duplicates 71.15528694870386
 
-----starting query for file path /usr/app/data/1237736394585448449punktpreradovic1397596080687226882.csv-----
-----starting query for file path /usr/app/data/1237736394585448449punktpreradovic1461243996601294849.csv-----
 statistic for /usr/app/data/1237736394585448449punktpreradovic1392406173387792386.csv
 overall followers with duplicates: 274440
 unique follower count: 126522
@@ -38,15 +34,12 @@ unique follower count: 76679
 duplicate counter 80686
 Percentage of duplicates 51.26794212770284
 
-----starting query for file path /usr/app/data/1314116355197743105rosenbusch_1386610811091800064.csv-----
 statistic for /usr/app/data/1237736394585448449punktpreradovic1461243996601294849.csv
 overall followers with duplicates: 162433
 unique follower count: 79496
 duplicate counter 82937
 Percentage of duplicates 51.05920594952996
 
-----starting query for file path /usr/app/data/1314116355197743105rosenbusch_1400373787800084480.csv-----
-----starting query for file path /usr/app/data/1314116355197743105rosenbusch_1460847726376243204.csv-----
 statistic for /usr/app/data/1314116355197743105rosenbusch_1400373787800084480.csv
 overall followers with duplicates: 234213
 unique follower count: 86751
