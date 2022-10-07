@@ -1,0 +1,69 @@
+----starting query for file path /usr/app/data/80293090.csv-----
+----starting query for file path /usr/app/data/433607851.csv-----
+statistic for /usr/app/data/80293090.csv
+overall followers with duplicates: 72659
+unique follower count: 60823
+duplicate counter 11836
+Percentage of duplicates 16.28979204227969
+
+----starting query for file path /usr/app/data/753828174.csv-----
+----starting query for file path /usr/app/data/2316172198.csv-----
+statistic for /usr/app/data/753828174.csv
+overall followers with duplicates: 45475
+unique follower count: 37380
+duplicate counter 8095
+Percentage of duplicates 17.800989554700386
+
+----starting query for file path /usr/app/data/2364568520.csv-----
+statistic for /usr/app/data/433607851.csv
+overall followers with duplicates: 425065
+unique follower count: 278183
+duplicate counter 146882
+Percentage of duplicates 34.555185677484616
+
+----starting query for file path /usr/app/data/2478349112.csv-----
+statistic for /usr/app/data/2364568520.csv
+overall followers with duplicates: 112460
+unique follower count: 72595
+duplicate counter 39865
+Percentage of duplicates 35.44815934554508
+
+statistic for /usr/app/data/2316172198.csv
+overall followers with duplicates: 278737
+unique follower count: 203688
+duplicate counter 75049
+Percentage of duplicates 26.92466375113458
+
+----starting query for file path /usr/app/data/825306344961998848.csv-----
+----starting query for file path /usr/app/data/1224385296780931073.csv-----
+----starting query for file path /usr/app/data/1255946430298161161.csv-----
+----starting query for file path /usr/app/data/1298662987373449216.csv-----
+statistic for /usr/app/data/1224385296780931073.csv
+overall followers with duplicates: 67338
+unique follower count: 57248
+duplicate counter 10090
+Percentage of duplicates 14.984110012177373
+
+statistic for /usr/app/data/1255946430298161161.csv
+overall followers with duplicates: 65015
+unique follower count: 49437
+duplicate counter 15578
+Percentage of duplicates 23.96062447127586
+
+statistic for /usr/app/data/1298662987373449216.csv
+overall followers with duplicates: 72727
+unique follower count: 59993
+duplicate counter 12734
+Percentage of duplicates 17.509315659933726
+
+statistic for /usr/app/data/2478349112.csv
+overall followers with duplicates: 652678
+unique follower count: 549042
+duplicate counter 103633
+Percentage of duplicates 15.878120604647314
+
+statistic for /usr/app/data/825306344961998848.csv
+overall followers with duplicates: 373893
+unique follower count: 355544
+duplicate counter 18349
+Percentage of duplicates 4.907553765382074
